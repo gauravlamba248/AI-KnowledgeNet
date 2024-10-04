@@ -56,8 +56,8 @@ The main goal is to allow for dynamic and flexible management of a knowledge bas
    └── README.md                  # Project documentation
 
 ```
-```bash
 ## Example Interaction
+```bash
 - What topic do you want to add information about? Supervised Learning
 - Enter a main point (or type 'stop' to finish): Definition
 - Enter a comment for 'Definition' (or type 'stop' to finish): A type of machine learning.
