@@ -55,6 +55,8 @@ The main goal is to allow for dynamic and flexible management of a knowledge bas
    ├── requirements.txt           # List of dependencies
    └── README.md                  # Project documentation
 
+```
+```bash
 ## Example Interaction
 - What topic do you want to add information about? Supervised Learning
 - Enter a main point (or type 'stop' to finish): Definition
