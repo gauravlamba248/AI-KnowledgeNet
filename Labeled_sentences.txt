@@ -1,0 +1,328 @@
+"The theory of gravity explains the attraction between objects."	Useful
+"My cat loves to sleep in the sun."	Not Useful
+"The water cycle is crucial for maintaining ecosystems."	Useful
+"I often eat cereal for breakfast."	Not Useful
+"Data encryption protects sensitive information from unauthorized access."	Useful
+"I like to visit my friends on weekends."	Not Useful
+"The speed of light is approximately 299,792 kilometers per second."	Useful
+"He enjoys collecting stamps from around the world."	Not Useful
+"The scientific community conducts peer reviews to validate research findings."	Useful
+"She prefers vanilla over chocolate."	Not Useful
+"The structure of DNA consists of a double helix."	Useful
+"He loves going to amusement parks."	Not Useful
+"Astronauts experience weightlessness in space due to microgravity."	Useful
+"I enjoy making crafts in my spare time."	Not Useful
+"The principles of supply and demand influence market prices."	Useful
+"She loves to play the violin."	Not Useful
+"Vaccines are essential for preventing infectious diseases."	Useful
+"He has a large collection of action figures."	Not Useful
+"The human body is made up of approximately 60% water."	Useful
+"I enjoy listening to podcasts during my commute."	Not Useful
+"The laws of motion were formulated by Isaac Newton."	Useful
+"He spends his weekends playing video games."	Not Useful
+"Nutrient cycling is vital for soil health and plant growth."	Useful
+"I like to watch cooking shows on television."	Not Useful
+"Geothermal energy harnesses heat from the Earth for electricity."	Useful
+"He loves to play basketball after school."	Not Useful
+"The nervous system is responsible for transmitting signals throughout the body."	Useful
+"I often buy fresh produce from the farmers' market."	Not Useful
+"Social media can impact mental health positively and negatively."	Useful
+"She enjoys decorating her home."	Not Useful
+"The Big Bang theory explains the origin of the universe."	Useful
+"He likes to go for coffee with friends."	Not Useful
+"The endocrine system regulates hormones in the body."	Useful
+"I often watch reality shows."	Not Useful
+"Renewable resources are key to sustainable development."	Useful
+"He loves to eat pizza on Friday nights."	Not Useful
+"The periodic table arranges elements based on atomic number."	Useful
+"I enjoy going for long drives."	Not Useful
+"Artificial intelligence can analyze vast amounts of data quickly."	Useful
+"He prefers to stay home on weekends."	Not Useful
+"Ocean currents play a significant role in regulating climate."	Useful
+"I like to take pictures of nature."	Not Useful
+"The human genome contains over 20,000 genes."	Useful
+"He enjoys watching romantic movies."	Not Useful
+"The principles of marketing help businesses reach their target audience."	Useful
+"I went to a comedy show last weekend."	Not Useful
+"The practice of mindfulness can improve mental well-being."	Useful
+"He likes to cook dinner for his family."	Not Useful
+"The function of the heart is to pump blood throughout the body."	Useful
+"I enjoy reading novels in my free time."	Not Useful
+"Biotechnology can enhance agricultural productivity."	Useful
+"He enjoys visiting historical sites."	Not Useful
+"Astrobiology is the study of the origin of life in the universe."	Useful
+"I like to explore new cuisines."	Not Useful
+"The effects of climate change can be mitigated through policy changes."	Useful
+"He enjoys going to the gym after work."	Not Useful
+"The cell theory describes the properties of cells as the basic unit of life."	Useful
+"I often attend local music festivals."	Not Useful
+"Quantum mechanics explains the behavior of matter and energy on a very small scale."	Useful
+"He enjoys playing tennis in the park."	Not Useful
+"The concept of a social contract is fundamental in political philosophy."	Useful
+"I like to play trivia games."	Not Useful
+"Sustainable agriculture practices protect the environment."	Useful
+"He loves to try new ice cream flavors."	Not Useful
+"The scientific method involves hypothesis testing and experimentation."	Useful
+"I enjoy taking walks in the evening."	Not Useful
+"The impact of pollution on health is a significant concern."	Useful
+"He often reads comic books."	Not Useful
+"The practice of yoga can enhance physical and mental health."	Useful
+"I like to go to the movies with friends."	Not Useful
+"The development of renewable energy sources is crucial for sustainability."	Useful
+"He enjoys playing card games."	Not Useful
+"The solar system consists of the Sun and the celestial bodies that orbit it."	Useful
+"I prefer to drink herbal tea."	Not Useful
+"The Internet has transformed how we communicate and access information."	Useful
+"He likes to draw cartoons."	Not Useful
+"The immune system defends the body against pathogens."	Useful
+"I enjoy making smoothies for breakfast."	Not Useful
+"The history of technology reflects human innovation over time."	Useful
+"He often plays video games late at night."	Not Useful
+"The importance of biodiversity is vital for ecosystem health."	Useful
+"I like to ride my bike in the park."	Not Useful
+"The concept of natural selection is central to evolutionary biology."	Useful
+"He enjoys visiting the library."	Not Useful
+"The principles of design thinking foster innovation."	Useful
+"I watch reality TV shows occasionally."	Not Useful
+"The study of psychology helps us understand human behavior."	Useful
+"He enjoys spending time with his family."	Not Useful
+"Cloud computing offers scalable storage solutions."	Useful
+"I like to listen to audiobooks."	Not Useful
+"The role of nutrition is crucial for overall health."	Useful
+"He enjoys gardening in the spring."	Not Useful
+"The significance of ethical practices in business cannot be overstated."	Useful
+"I often visit art exhibitions."	Not Useful
+"The relationship between supply and demand determines market equilibrium."	Useful
+"He loves to go hiking during the summer."	Not Useful
+"Artificial neural networks are used in machine learning applications."	Useful
+"I enjoy attending community events."	Not Useful
+"The effects of deforestation can lead to loss of biodiversity."	Useful
+"He likes to play board games with friends."	Not Useful
+"The impact of social media on society is widely debated."	Useful
+"I like to take short trips."	Not Useful
+"The fundamentals of accounting are essential for financial literacy."	Useful
+"He enjoys playing golf on weekends."	Not Useful
+"The process of photosynthesis converts sunlight into chemical energy in plants."	Useful
+"I like to go swimming in the pool."	Not Useful
+"The significance of mental health awareness is increasing."	Useful
+"He enjoys collecting comic books."	Not Useful
+"The study of ethics examines moral principles that govern behavior."	Useful
+"I went to the zoo last week."	Not Useful
+"The role of government is to protect the rights of its citizens."	Useful
+"He enjoys traveling to new places."	Not Useful
+"The study of anthropology explores human cultures and societies."	Useful
+"I like to write poetry in my free time."	Not Useful
+"The principles of democracy ensure citizens have a voice in government."	Useful
+"He enjoys playing the drums."	Not Useful
+"The impact of technology on education has transformed learning methods."	Useful
+"I like to play video games with my brother."	Not Useful
+"The capital of France is Paris."	Useful
+"Cats are better than dogs."	Not Useful
+"To boil water, bring it to a temperature of 100°C."	Useful
+"My favorite color is blue."	Not Useful
+"Machine learning algorithms can analyze data patterns."	Useful
+"I enjoy going to the beach."	Not Useful
+"Photosynthesis is the process by which plants convert sunlight into energy."	Useful
+"I had pancakes for breakfast yesterday."	Not Useful
+"The Pythagorean theorem states that in a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides."	Useful
+"I like pizza."	Not Useful
+"Python is a versatile programming language used for web development and data analysis."	Useful
+"My friend has a dog."	Not Useful
+"The Great Wall of China is visible from space."	Not Useful
+"Artificial intelligence can assist in medical diagnostics."	Useful
+"I watched a movie last weekend."	Not Useful
+"Electric cars reduce greenhouse gas emissions."	Useful
+"He plays guitar on Sundays."	Not Useful
+"The formula for the area of a circle is πr²."	Useful
+"She loves to read novels."	Not Useful
+"Data science combines statistics and computer science."	Useful
+"I visited my grandparents last summer."	Not Useful
+"Renewable energy sources include solar and wind."	Useful
+"He is tall."	Not Useful
+"The water cycle describes the continuous movement of water on, above, and below the surface of the Earth."	Useful
+"I went to the grocery store."	Not Useful
+"Quantum computing has the potential to solve complex problems faster than classical computers."	Useful
+"She bakes cookies every Saturday."	Not Useful
+"In Java, an interface is a reference type that can contain only constants, method signatures, default methods, static methods, and nested types."	Useful
+"I enjoy hiking in the mountains."	Not Useful
+"The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones."	Useful
+"He has a collection of stamps."	Not Useful
+"Cloud computing allows for on-demand access to computing resources."	Useful
+"She likes to travel to new places."	Not Useful
+"Biology is the study of living organisms."	Useful
+"He drinks coffee every morning."	Not Useful
+"A neural network is a series of algorithms that attempt to recognize underlying relationships in a set of data."	Useful
+"My favorite sport is basketball."	Not Useful
+"The scientific method involves systematic observation, measurement, and experimentation."	Useful
+"I bought a new phone."	Not Useful
+"Blockchain technology ensures secure transactions."	Useful
+"She enjoys painting landscapes."	Not Useful
+"The periodic table organizes elements based on their atomic number."	Useful
+"He prefers tea over coffee."	Not Useful
+"Robotics involves the design, construction, operation, and use of robots."	Useful
+"I saw a shooting star last night."	Not Useful
+"The theory of relativity transformed our understanding of space and time."	Useful
+"He loves video games."	Not Useful
+"Statistical analysis can reveal trends in data."	Useful
+"She is a great dancer."	Not Useful
+"3D printing allows for the creation of complex shapes and structures."	Useful
+"He likes playing board games."	Not Useful
+"Cybersecurity is critical for protecting sensitive information."	Useful
+"I enjoy watching documentaries."	Not Useful
+"The law of supply and demand is fundamental in economics."	Useful
+"She has a cat named Whiskers."	Not Useful
+"Genetics is the study of heredity and variation in living organisms."	Useful
+"I went for a walk in the park."	Not Useful
+"Augmented reality overlays digital information on the real world."	Useful
+"She loves chocolate ice cream."	Not Useful
+"The human brain contains approximately 86 billion neurons."	Useful
+"I made a sandwich for lunch."	Not Useful
+"A software bug is an error in a computer program."	Useful
+"He often wears a blue shirt."	Not Useful
+"Climate change refers to significant changes in global temperatures and weather patterns over time."	Useful
+"I found a nice restaurant downtown."	Not Useful
+"The smartphone revolutionized communication."	Useful
+"She prefers summer over winter."	Not Useful
+"Genetic engineering is the direct manipulation of an organism's genes using biotechnology."	Useful
+"I usually go to bed at 10 PM."	Not Useful
+"The concept of gravity was first formulated by Isaac Newton."	Useful
+"He often forgets his keys."	Not Useful
+"Virtual reality creates a simulated environment for users."	Useful
+"She enjoys cooking new recipes."	Not Useful
+"The mitochondria are known as the powerhouse of the cell."	Useful
+"He likes to watch sports on TV."	Not Useful
+"The Internet has transformed how we access information."	Useful
+"I once met a famous actor."	Not Useful
+"The ozone layer protects the Earth from harmful ultraviolet radiation."	Useful
+"I play chess occasionally."	Not Useful
+"Financial literacy is the ability to understand and effectively manage personal finances."	Useful
+"She often goes for a jog in the morning."	Not Useful
+"Artificial intelligence can improve customer service."	Useful
+"He has a collection of action figures."	Not Useful
+"Meteorology is the science of weather and atmospheric conditions."	Useful
+"I enjoy playing video games with friends."	Not Useful
+"A balanced diet is essential for maintaining good health."	Useful
+"He likes to travel by train."	Not Useful
+"Renewable energy can significantly reduce our carbon footprint."	Useful
+"I usually eat lunch at noon."	Not Useful
+"The study of economics focuses on the production, distribution, and consumption of goods and services."	Useful
+"She often bakes bread on weekends."	Not Useful
+"The scientific method consists of systematic observation, measurement, and experimentation."	Useful
+"He loves collecting coins."	Not Useful
+"The principles of democracy include fairness, equality, and justice."	Useful
+"I went to a concert last night."	Not Useful
+"Astronomy is the study of celestial objects and the universe."	Useful
+"He likes to go fishing on weekends."	Not Useful
+"The greenhouse effect is a natural process that warms the Earth’s surface."	Useful
+"I enjoy visiting museums."	Not Useful
+"Sustainable practices are essential for environmental conservation."	Useful
+"He enjoys reading science fiction."	Not Useful
+"The process of cellular respiration allows cells to convert nutrients into energy."	Useful
+"I often take pictures of nature."	Not Useful
+"The laws of thermodynamics describe the principles of energy transfer."	Useful
+"She plays soccer every Saturday."	Not Useful
+"Artificial intelligence can enhance data security measures."	Useful
+"I watched a series on Netflix."	Not Useful
+"The circulatory system is responsible for transporting blood throughout the body."	Useful
+"He prefers to read mystery novels."	Not Useful
+"Genetic diversity is important for the survival of species."	Useful
+"I enjoy gardening in my free time."	Not Useful
+"The Internet of Things connects everyday devices to the internet."	Useful
+"He likes to collect vintage cars."	Not Useful
+"Recycling helps reduce waste and conserve resources."	Useful
+"I often attend yoga classes."	Not Useful
+"The principles of physics explain the fundamental nature of the universe."	Useful
+"She loves going to the movies."	Not Useful
+"The health benefits of exercise include improved mood and increased longevity."	Useful
+"He enjoys painting in his spare time."	Not Useful
+"Smartphones have changed the way we communicate."	Useful
+"I visited an art gallery last weekend."	Not Useful
+"The theory of evolution explains the diversity of life on Earth."	Useful
+"He enjoys playing video games on his computer."	Not Useful
+"The carbon cycle is essential for maintaining Earth's ecosystem."	Useful
+"I like to watch nature documentaries."	Not Useful
+"The principles of chemistry are foundational for understanding matter."	Useful
+"She enjoys playing the piano."	Not Useful
+"The history of civilization is marked by advancements in technology and culture."	Useful
+"I have a collection of postcards."	Not Useful
+"Artificial intelligence can automate repetitive tasks."	Useful
+"He likes to go for long walks."	Not Useful
+"The study of linguistics involves analyzing language structure and use."	Useful
+"I prefer tea over coffee."	Not Useful
+"Ecology is the study of interactions among organisms and their environment."	Useful
+"He has a dog that loves to play fetch."	Not Useful
+"The principles of design are crucial in creating effective visual communication."	Useful
+"I bought a new pair of shoes."	Not Useful
+"Cybersecurity is essential for protecting personal and sensitive information."	Useful
+"He likes to try new restaurants."	Not Useful
+"The history of art reflects changes in society and culture."	Useful
+"I enjoy listening to music."	Not Useful
+"The importance of mental health cannot be overstated."	Useful
+"He often watches sports highlights."	Not Useful
+"The role of government is to protect the rights of its citizens."	Useful
+"I like to cook for my friends."	Not Useful
+"Understanding basic programming concepts can enhance problem-solving skills."	Useful
+"He enjoys going to the gym."	Not Useful
+"Nutrition is essential for maintaining a healthy lifestyle."	Useful
+"I watched a live concert on streaming."	Not Useful
+"The capital of France is Paris."	Useful
+"Cats are better than dogs."	Not Useful
+"To boil water, bring it to a temperature of 100°C."	Useful
+"My favorite color is blue."	Not Useful
+"Machine learning algorithms can analyze data patterns."	Useful
+"I enjoy going to the beach."	Not Useful
+"Photosynthesis is the process by which plants convert sunlight into energy."	Useful
+"I had pancakes for breakfast yesterday."	Not Useful
+"The Pythagorean theorem states that in a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides."	Useful
+"I like pizza."	Not Useful
+"Python is a versatile programming language used for web development and data analysis."	Useful
+"My friend has a dog."	Not Useful
+"The Great Wall of China is visible from space."	Not Useful
+"Artificial intelligence can assist in medical diagnostics."	Useful
+"I watched a movie last weekend."	Not Useful
+"Electric cars reduce greenhouse gas emissions."	Useful
+"He plays guitar on Sundays."	Not Useful
+"The formula for the area of a circle is πr²."	Useful
+"She loves to read novels."	Not Useful
+"Data science combines statistics and computer science."	Useful
+"I visited my grandparents last summer."	Not Useful
+"Renewable energy sources include solar and wind."	Useful
+"He is tall."	Not Useful
+"The water cycle describes the continuous movement of water on, above, and below the surface of the Earth."	Useful
+"I went to the grocery store."	Not Useful
+"Quantum computing has the potential to solve complex problems faster than classical computers."	Useful
+"She bakes cookies every Saturday."	Not Useful
+"In Java, an interface is a reference type that can contain only constants, method signatures, default methods, static methods, and nested types."	Useful
+"I enjoy hiking in the mountains."	Not Useful
+"The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones."	Useful
+"He has a collection of stamps."	Not Useful
+"Cloud computing allows for on-demand access to computing resources."	Useful
+"She likes to travel to new places."	Not Useful
+"Biology is the study of living organisms."	Useful
+"He drinks coffee every morning."	Not Useful
+"A neural network is a series of algorithms that attempt to recognize underlying relationships in a set of data."	Useful
+"My favorite sport is basketball."	Not Useful
+"The scientific method involves systematic observation, measurement, and experimentation."	Useful
+"I bought a new phone."	Not Useful
+"Blockchain technology ensures secure transactions."	Useful
+"She enjoys painting landscapes."	Not Useful
+"The periodic table organizes elements based on their atomic number."	Useful
+"He prefers tea over coffee."	Not Useful
+"Robotics involves the design, construction, operation, and use of robots."	Useful
+"I saw a shooting star last night."	Not Useful
+"The theory of relativity transformed our understanding of space and time."	Useful
+"He loves video games."	Not Useful
+"Statistical analysis can reveal trends in data."	Useful
+"She is a great dancer."	Not Useful
+"3D printing allows for the creation of complex shapes and structures."	Useful
+"He likes playing board games."	Not Useful
+"Cybersecurity is critical for protecting sensitive information."	Useful
+"I enjoy watching documentaries."	Not Useful
+"The law of supply and demand is fundamental in economics."	Useful
+"She has a cat named Whiskers."	Not Useful
+"Genetics is the study of heredity and variation in living organisms."	Useful
+"I went for a walk in the park."	Not Useful
+"Augmented reality overlays digital information on the real world."	Useful
+"She loves chocolate ice cream."	Not Useful
+"The human brain contains approximately 86 billion neurons."	Useful
+"I made a sandwich for lunch."	Not Useful
