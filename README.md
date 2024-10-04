@@ -44,15 +44,16 @@ The main goal is to allow for dynamic and flexible management of a knowledge bas
 4. Follow the instructions in the notebook to add knowledge, scrape websites, and translate content.
 
 ## File Structure
-smart-knowledge-manager/
-├── data/
-│   └── Cleaned_output_file.xlsx
-├── models/
-│   └── voting_classifier_model.joblib
-├── knowledge_base.json        # File where the knowledge base is stored
-├── PORTABLE-Copy1.ipynb       # Main application file
-├── requirements.txt           # List of dependencies
-└── README.md                  # Project documentation
+   ```bash
+   smart-knowledge-manager/
+   ├── data/
+   │   └── Cleaned_output_file.xlsx
+   ├── models/
+   │   └── voting_classifier_model.joblib
+   ├── knowledge_base.json        # File where the knowledge base is stored
+   ├── PORTABLE-Copy1.ipynb       # Main application file
+   ├── requirements.txt           # List of dependencies
+   └── README.md                  # Project documentation
 
 ## Example Interaction
 - What topic do you want to add information about? Supervised Learning
@@ -62,5 +63,3 @@ smart-knowledge-manager/
 - Enter a comment for 'Characteristics' (or type 'stop' to finish): Uses labeled data.
 - Enter a main point (or type 'stop' to finish): stop
 - AI: I learned your answer about 'Supervised Learning'
-
-
