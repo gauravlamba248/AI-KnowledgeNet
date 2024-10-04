@@ -58,12 +58,12 @@ smart-knowledge-manager/
 └── README.md                  # Project documentation
 
 ## Example Interaction
-What topic do you want to add information about? Supervised Learning
-Enter a main point (or type 'stop' to finish): Definition
-Enter a comment for 'Definition' (or type 'stop' to finish): A type of machine learning.
-Enter a main point (or type 'stop' to finish): Characteristics
-Enter a comment for 'Characteristics' (or type 'stop' to finish): Uses labeled data.
-Enter a main point (or type 'stop' to finish): stop
-AI: I learned your answer about 'Supervised Learning'
+- What topic do you want to add information about? Supervised Learning
+- Enter a main point (or type 'stop' to finish): Definition
+- Enter a comment for 'Definition' (or type 'stop' to finish): A type of machine learning.
+- Enter a main point (or type 'stop' to finish): Characteristics
+- Enter a comment for 'Characteristics' (or type 'stop' to finish): Uses labeled data.
+- Enter a main point (or type 'stop' to finish): stop
+- AI: I learned your answer about 'Supervised Learning'
 
 
