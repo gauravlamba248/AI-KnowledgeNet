@@ -30,8 +30,8 @@ The main goal is to allow for dynamic and flexible management of a knowledge bas
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/interactive-ai-knowledge-base.git
-   cd interactive-ai-knowledge-base
+   git clone https://github.com/gauravlamba248/AI-KnowledgeNet.git
+   cd AI-KnowledgeNet
    
 2. Install the required libraries:
    ```bash
